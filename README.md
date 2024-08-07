@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Puka-it
+- 👀 I’m interested in Android Kotlin / Java and Flutter development
+- 🌱 I’m currently learning Android Kotlin / Java and Flutter development
+- 💞️ I’m looking to collaborate on Android Kotlin / Java and Flutter development
